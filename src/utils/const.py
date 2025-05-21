@@ -1,0 +1,15 @@
+GUS_COLNAMES: list[str, ...] = [
+    'rok', 
+    'populacja', 
+    'malzenstwa', 
+    'rozwody', 
+    'urodzenia_zywe', 
+    'zgony_ogolem', 
+    'zgony_niemowlat', 
+    'przyrost_naturalny',
+    'migracje_wew_naplyw',
+    'migracje_wew_odplyw',
+    'imigracja',
+    'emigracja',
+    'ogolne_saldo_migracji',
+    ]
